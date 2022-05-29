@@ -52,7 +52,7 @@ clone it on your computer
 
 make a separate python virtual environment or use the default one already installed on your machine
 
-Download this file
+Download shape_predictor_68_face_landmarks file
 
 put it inside \face_recognition_data directory
 
