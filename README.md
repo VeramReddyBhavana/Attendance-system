@@ -13,6 +13,7 @@ The system mainly works around 2 types of users
 
 Following functionalities can be performed by the admin:
 
+
 • Login
 
 • Register new employees to the system
