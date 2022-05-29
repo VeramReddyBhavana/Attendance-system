@@ -32,19 +32,15 @@ Following functionalities can be performed by the employee:
 
 
 Face Detection
-
 Dlib's HOG facial detector.
 
 Facial Landmark Detection
-
 Dlib's 68 point shape predictor
 
 Extraction of Facial Embeddings
-
 face_recognition by Adam Geitgey
 
 Classification of Unknown Embedding
-
 using a Linear SVM (scikit-learn)
 
 
