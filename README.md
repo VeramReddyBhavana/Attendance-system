@@ -5,13 +5,13 @@ An attendance system which utilizes facial recognition to mark the presence, tim
 
 Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. It is a very effective tool that can help low enforcers to recognize criminals and software companies are leveraging the technology to help users access the technology. This technology can be further developed to be used in other avenues such as ATMs, accessing confidential files, or other sensitive materials. This project servers as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their availability(presence) report throughout the month.
 
-The system mainly works around 2 types of users
+# The system mainly works around 2 types of users
 
 1.Employee
 
 2. Admin
 
-Following functionalities can be performed by the admin:
+# Following functionalities can be performed by the admin:
 
 
 • Login
@@ -33,20 +33,20 @@ Following functionalities can be performed by the employee:
 
 
 
-Face Detection
+# Face Detection
 Dlib's HOG facial detector.
 
-Facial Landmark Detection
+# Facial Landmark Detection
 Dlib's 68 point shape predictor
 
-Extraction of Facial Embeddings
+# Extraction of Facial Embeddings
 face_recognition by Adam Geitgey
 
-Classification of Unknown Embedding
+# Classification of Unknown Embedding
 using a Linear SVM (scikit-learn)
 
 
-How To Run ?
+# How To Run ?
 
 clone it on your computer
 
@@ -63,8 +63,12 @@ Run python manage.py runserver directory to run the project
 view the project!!!!
 
 
-ADMIN LOGIN details
+# ADMIN LOGIN details
 
 name:- admin
 
 Password:- admin
+
+
+
+python 3.6.1
